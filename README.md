@@ -9,12 +9,13 @@ Some useful introductions if you want to start programming:
     - If you want learn to program **easily**, I suggest `Python`.
     - If you want to run code **fast** and **swiftly**, I suggest the `C` languages.
     - If you want to develop **Android** Apps, use **design** programs and `Kotlin`.
-    - If you want to develop **iOS** Apps, use use **design** programs and `Swift`.
+    - If you want to develop **iOS** Apps, use **design** programs and `Swift`.
+    - If you want to develop **Mobile** Apps without different languages for different operating systems, use `Flutter` and `Dart`.
     - There are still many languages, know more by exploring the **Internet**!
 2. 💻 Choose a coding IDE.
    IDEs make the coding process much more easier.
     - I personally **prefer** `VS Code Studio`, it supports lots of **different** language syntax highlighting through **extensions**.
-    - There are IDEs **tailored** for `Python`, for example the **default** one, `PyCharm`, and lots more.
+    - There are IDEs **tailored** for `Python`, for example `PyCharm`, and lots more.
     - For people who want to code **without** complicated IDE setups, just use `Notepad` and execute your file through `Command Prompt`.
 3. 📂 Choose your project idea.
     - What project do you want to make?
