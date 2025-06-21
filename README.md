@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Albert.
 - 👀 I love programming in `Python` and the `HTML5` languages.
-- 🌱 I’m currently learning `C++` and **German**.
+- 🌱 I’m currently learning `Rust` and **German**.
 - 📫 How to reach me: albertoyucheng@gmail.com
 
 Some useful introductions if you want to start programming:
